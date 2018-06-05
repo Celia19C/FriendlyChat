@@ -1,7 +1,9 @@
 # Firebase Web Codelab
 
-Project Console: https://console.firebase.google.com/u/0/project/friendlychat-49a96/overview
+__Hosting URL: https://friendlychat-49a96.firebaseapp.com/__
 
-Hosting URL: https://friendlychat-49a96.firebaseapp.com/
+(Firebase project console: https://console.firebase.google.com/u/0/project/friendlychat-49a96/overview)
 
-Start code and steps from: [Firebase: Build a Real Time Web Chat App Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/).
+________________________________
+
+__Start code and steps from:__ [Firebase: Build a Real Time Web Chat App Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/).
