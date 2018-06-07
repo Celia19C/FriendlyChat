@@ -1,4 +1,4 @@
-# Firebase Web Codelab
+# FriendlyChat with Firebase
 
 __Hosting URL: https://friendlychat-49a96.firebaseapp.com/__
 
